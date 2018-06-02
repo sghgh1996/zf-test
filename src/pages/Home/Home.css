@@ -1,0 +1,10 @@
+.body{
+    width:600px;
+    margin: 40px auto;
+    background-color: #f2f2f2;
+}
+
+.body .app-header{
+    height: 40px;
+    background-color: #ED0c6e;
+}
